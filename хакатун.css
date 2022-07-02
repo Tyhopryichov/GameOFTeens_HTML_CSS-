@@ -1,0 +1,22 @@
+/*Загальні налаштування для сторінки*/
+body{
+    height: 100vh;
+    overflow: hidden;
+    /*робимо випадковий фон та затемнення по колу*/
+background: radial-gradient(farthest-corner, #83a4d4, #b6fbff),
+url(333.jpg) center/cover;
+}
+p{
+    text-align: left;
+    text-indent: 50px;
+    color: black;}
+.button{
+    background-color: #ffcb3c;
+    color: black;
+}
+p1{
+    text-align: center;
+    font-family: Georgia, sans-serif;
+  font-size: 2em;
+  letter-spacing: -1px; 
+}
